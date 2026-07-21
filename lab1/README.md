@@ -84,4 +84,4 @@ Both designs compiled and simulated with **0 errors**. Waveforms confirm correct
 
 ## Author
 
-Amr Khaled Sedik — ECE Engineering, Ain Shams University
+Amr Khaled Sedik — Computer Engineering, Ain Shams University
